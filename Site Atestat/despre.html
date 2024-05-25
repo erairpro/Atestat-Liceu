@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Despre</title>
+  </head>
+  <body class="despre">
+    <header>
+      <a href="index.html"><h1>Grecia Antică</h1></a>
+      <ul>
+        <a href="index.html"><li>Acasă</li></a>
+        <a href="istoria.html"><li>Istoria Greciei</li></a>
+        <a href="asis.html"><li>Atena și Sparta</li></a>
+        <a href="zei.html"><li>Zeități</li></a>
+        <a href="person.html"><li>Personalități</li></a>
+        <a href="despre.html" class="linkdreapta"><li>Despre</li></a>
+      </ul>
+    </header>
+    <div class="content">
+      <p class = "despre1">
+        Acest site a fost realizat în Visual Studio Code cu ajutorul
+        tutorialelor de pe <a href="https://www.w3schools.com/">W3Schools</a>. Am folosit limbajele HTML, CSS și JavaScript.<br>
+        Sursele folosite pentru informațiile despre Grecia antică:
+        <ul>
+          <li><a href = "https://istorie-edu.ro/istoria-universala/grecia-antica/atena.html">https://istorie-edu.ro/istoria-universala/grecia-antica/atena.html</a></li>
+          <li><a href = "https://neomania.ro/grecia-antica/sparta-versus-atena-care-este-mai-buna/">https://neomania.ro/grecia-antica/sparta-versus-atena-care-este-mai-buna/</a></li>
+          <li><a href = "https://www.twinkl.hu/teaching-wiki/grecia-antica">https://www.twinkl.hu/teaching-wiki/grecia-antica</a></li>
+          <li><a href = "https://ro.wikipedia.org/wiki/List%C4%83_de_persoane_din_Antichitatea_greac%C4%83">https://ro.wikipedia.org/wiki/List%C4%83_de_persoane_din_Antichitatea_greac%C4%83</a></li>
+        </ul>
+      </p>
+    </div>
+    <footer>
+      <p>Made by Eric Caldararu 2024©</p>
+    </footer>
+    <script>
+      window.onscroll = function () {
+        StickyNav();
+      };
+      var navbar = document.querySelector("header ul");
+      var sticky = navbar.offsetTop;
+      function StickyNav() {
+        if (window.pageYOffset >= sticky) {
+          navbar.classList.add("sticky");
+        } else {
+          navbar.classList.remove("sticky");
+        }
+      }
+    </script>
+  </body>
+</html>

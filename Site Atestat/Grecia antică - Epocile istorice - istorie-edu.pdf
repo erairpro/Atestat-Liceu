@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ro-RO"><head>
+<meta charset="utf-8">
+<title>Grecia antică - Epocile istorice - istorie-edu</title>
+<meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width">
+<!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<link rel="stylesheet" href="../../style.css" media="screen">
+<!--[if lte IE 7]><link rel="stylesheet" href="style.ie7.css" media="screen" /><![endif]-->
+<link rel="stylesheet" href="../../style.responsive.css" media="all">
+<link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon">
+<script src="../../jquery.js"></script>
+<script src="../../script.js"></script>
+<script src="../../script.responsive.js"></script>
+<link href="../../lity/dist/lity.css" rel="stylesheet">
+<script src="../../lity/dist/lity.js"></script>
+<link rel="stylesheet" type="text/css" href="../../cookieconsent.css">
+<script src="../../cookieconsent.js"></script>
+<script type="text/javascript">
+        window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+        "palette": {
+          "popup": {
+            "background": "#990000"
+          },
+          "button": {
+            "background": "#ffff00"
+          }
+        },        "theme": "classic",
+        "position": "bottom-right",
+        "content": {
+          "message": "Acest site folosește cookie-uri pentru a vă oferi o experiență de navigare mai bună. Continuarea navigării implică acceptarea lor.",
+          "dismiss": "De acord!",
+          "link": "Află mai multe",
+          "href": "../../confidentialitate.html"
+        }
+        })});
+        </script>
+<style>
+.brv-content .brv-postcontent-0 .layout-item-0 { background: ; border-spacing: 5px 0px; border-collapse: separate;  }
+.brv-content .brv-postcontent-0 .layout-item-1 { padding: 0px; vertical-align: top; border-radius: 5px;  }
+.brv-content .brv-postcontent-0 .layout-item-2 { margin-top: 0px;margin-bottom: 5px;  }
+.brv-content .brv-postcontent-0 .layout-item-3 { color: #000000; background: ;  border-collapse: separate;  }
+.brv-content .brv-postcontent-0 .layout-item-4 { border-style:Ridge;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;border-color:#EBCB00; color: #000000; padding: 2px; border-radius: 5px;  }
+.brv-content .brv-postcontent-0 .layout-item-5 { border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;border-top-color:#B2B493;border-right-color:#B2B493;border-bottom-color:#B2B493;border-left-color:#B2B493; background: ;  border-collapse: separate; border-radius: 5px;  }
+.brv-content .brv-postcontent-0 .layout-item-6 { border-style:Ridge;border-top-width:1px;border-right-width:2px;border-bottom-width:2px;border-left-width:2px;border-color:#A70202; color: #000000; background:  url('../../images/bg07.png') repeat-x scroll; padding-top: 18px;padding-right: 5px;padding-bottom: 5px;padding-left: 5px; vertical-align: top; border-radius: 5px;  }
+.brv-content .brv-postcontent-0 .layout-item-7 { margin-top: 5px;margin-bottom: 3px;  }
+.brv-content .brv-postcontent-0 .layout-item-8 { padding: 0px;  }
+.ie7 .brv-post .brv-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .brv-post .brv-layout-cell {border:none !important; padding:0 !important; }
+</style>
+<style>
+.button {
+	background-color: #B60203;
+	border: none;
+	color: #FF0;
+	padding: 06px 16px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 0px 4px 3px 2px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+	border: 1px #000;
+	}
+.button1 {
+	background-color: #BE0201;
+	color: #FFF;
+	border: 1px solid #000;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button1:hover {
+	background-color: #FFFFCC;
+	color: #000;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button2 {
+	background-color: #FFFF00;
+	color: #0000CC;
+	border: 1px solid #000;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+</style>
+<script type=text/javascript>function clickExplorer(){if(document.all){}return false}function clickOther(b){if(document.layers||(document.getElementById&&!document.all)){if(b.which==2||b.which==3){return false}}}if(document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickOther}else{document.onmouseup=clickOther;document.oncontextmenu=clickExplorer}</script>
+<script type=text/javascript>function disableSelection(b){if(typeof b.onselectstart!="undefined"){b.onselectstart=function(){return false}}else{if(typeof b.style.MozUserSelect!="undefined"){b.style.MozUserSelect="none"}else{b.onmousedown=function(){return true}}}b.style.cursor="default"}</script>
+<link type=text/css rel=stylesheet href=../../social-media/css_sm1.css media=all>
+<link type=text/css rel=stylesheet href=../../social-media/css_sm2.css media=screen>
+<link type=text/css rel=stylesheet href=../../social-media/css_jsm.css media="only screen">
+<script type=text/javascript>
+function disableSelection(b){if(typeof b.onselectstart!="undefined"){b.onselectstart=function(){return false}}else{if(typeof b.style.MozUserSelect!="undefined"){b.style.MozUserSelect="none"}else{b.onmousedown=function(){return true}}}b.style.cursor="default"}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body onLoad="MM_preloadImages('imagini/a02.png','../../images/img04.png')">
+<button onclick=topFunction() id=myBtn title="Go to top">Top</button>
+<div id="brv-main">
+    <div class="brv-sheet clearfix">
+<nav class="brv-nav">
+    <ul class="brv-hmenu"><li><a href="../../index.html">Prima pagină</a></li><li><a href="../../resurse-edu.html ">Resurse edu</a></li><li><a href="../../istoria-romanilor.html">Istoria românilor</a></li><li><a href="../../istoria-universala.html" class="active">Istoria universală</a></li><li><a href="../../miscellanae.html" >Miscellanae</a></li><li><a href="../../despre-istorie.html">Despre istorie</a></li><li><a href="../../atelier-c.html">Atelier C</a></li><li><a href="../../argument.html">Argument</a></li><li><a href="../../doneaza.html">Donează</a></li><li><a href="../../cauta.html" data-lity>Caută</a></li></ul> 
+    </nav>
+<header class="brv-header">
+    <div class="brv-shapes">        
+      </div>
+<div class="brv-slider brv-slidecontainerheader" data-width="1266" data-height="50">
+    <div class="brv-slider-inner">
+<div class="brv-slide-item brv-slideheader0">
+</div>
+<div class="brv-slide-item brv-slideheader1">
+</div>
+<div class="brv-slide-item brv-slideheader2">
+</div>
+</div>
+</div>
+<div class="brv-slidenavigator brv-slidenavigatorheader" data-left="1" data-top="1">
+<a href="#" class="brv-slidenavigatoritem"></a><a href="#" class="brv-slidenavigatoritem"></a><a href="#" class="brv-slidenavigatoritem"></a>
+</div><h2 class="brv-slogan">Historia magistra vitae</h2>
+</header>
+<div class="brv-layout-wrapper">
+                <div class="brv-content-layout">
+                    <div class="brv-content-layout-row">
+                        <div class="brv-layout-cell brv-content"><article class="brv-post brv-article">
+                <div class="brv-postcontent brv-postcontent-0 clearfix"><div class="brv-content-layout layout-item-0">
+    <div class="brv-content-layout-row">
+    <div class="brv-layout-cell layout-item-1" style="width: 33%" >
+      <table width="100%" align="left">
+        <tr>
+            <td><a href="../06-grecia-antica.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','imagini/a01.jpg',1)"><img src="imagini/a02.png" width="400" height="40" id="Image2"></a></td>
+          </tr>
+      </table>
+        <p style="line-height: 125%; margin-top: 0px; margin-bottom: 0px; text-indent: 0px; text-align: justify;">
+        </p><p style="line-height: 125%; margin-top: 0px; margin-bottom: 0px; text-indent: 0px; text-align: justify;">
+        </p>
+    </div><div class="brv-layout-cell layout-item-1" style="width: 34%" >
+        <table width="100%">
+          <tr>
+            <td><img src="../../images/img01.gif" width="170" height="14" alt="b1"></td>
+          </tr>
+          <tr>
+            <td><span class="atitlu">TIMP ȘI SPAȚIU</span></td>
+          </tr>
+        </table>
+        <p style="text-align: center;"></p>
+    </div><div class="brv-layout-cell layout-item-1" style="width: 33%" >
+    <table width="100%" align="right">
+  <tr>
+    <td><a href="../../dictionar-istoric.html" onMouseOut="MM_swapImgRestore()" data-lity onMouseOver="MM_swapImage('Image6','','../../images/img03.jpg',1)"><img src="../../images/img04.png" width="400" height="40" id="Image6"></a></td>
+  </tr>
+</table>
+    </div>
+    </div>
+    </div>
+<div class="brv-content-layout-wrapper layout-item-5">
+<div class="brv-content-layout layout-item-0">
+        <div class="brv-content-layout-row">
+    <div class="brv-layout-cell layout-item-8" style="width: 100%" >
+        <table width="100%">
+  <tr>
+    <td><a href="mediul-geografic.html"><button class="button button1">Mediul geografic</button></a>
+        <a href="epocile-istorice.html"><button class="button button2">Epocile istorice</button></a>
+        <a href="cronologia.html"><button class="button button1">Cronologia</button></a></td>
+  </tr>
+</table>
+    </div>
+</div>
+</div>
+<div class="brv-content-layout layout-item-5">
+    <div class="brv-content-layout-row">
+    <div class="brv-layout-cell layout-item-6" style="width: 100%;" >
+<p style="text-indent: 16px;"><span class="aname">Epoca preistorică</span><br>
+<p style="text-indent: 16px;">Datele privitoare la istoria  Greciei antice sunt aproximative, fiind stabilite cu ajutorul cronologiei  relative şi prin utlizarea şi compararea istoriei Vechiului Orient, Cretei şi  Asiei Mici, adică a unor regiuni cu care primii greci au avut legături.<br>
+<p style="text-indent: 16px;">Perioadele preistorice sunt  divizate după materialele folosite în confecţionarea uneltelor şi armelor  (piatră, aramă, bronz, fier) sau după tehnicile de prelucrare a acestor  materiale. Cele mai vechi vestigii  descoperite sunt din paleolitic (cca. 600.000 – 10.000 î.Hr.). <br>
+<p style="text-indent: 16px;">Termenul paleolitic provine din  limba greacă: palaios = vechi, lithos = piatră şi desemnează perioada cea mai  îndelungată din istoria umanităţii. Din această epocă provin habitaturile din  Thesalia şi Elida.<br>
+<p style="text-indent: 16px;">Perioada neolitică este datată la  cca. 6.200 – 3.000/2.500 î.Hr. (provine din limba greacă: neos = nou, lithos =  piatră). Caracteristic acestei perioade este şlefuirea uneltelor de piatră. În  Peninsula Balcanică îşi fac apariţia dinspre est primii imigranţi. Cei mai  vechi dintre aceştia, semnalaţi în Ciclade şi în Cipru, sunt triburi venite din  podişurile anatoliene şi din Orientul Apropiat. </p>
+<hr>
+<p style="text-indent: 16px;"><span class="astyle-01"><span class="aname">Epoca bronzului (cca. 2.5000 –  1.150 î.Hr.)</span></span><br>
+<p style="text-indent: 16px;">Epoca bronzului (cca. 2.5000 –  1.150) se împarte în trei perioade:<br>
+          ● helladicul timpuriu – 2.500-1.850  î.Hr.. Perioada următoare este dominată de mari mişcări de triburi. Se formează  diverse culturi în regiunea Mării Egee. În Grecia apare o cultură ţărănească,  cuprinzând Tracia, Focida, Beoţia, Attica, Argolida şi Corint (tip special de  olarie - urfimis - şi de ceramică străveche). Urmele acestei vechi populaţii  mediteraneene sunt susţinute lingvistic: denumiri de localităţi terminate în  ntos şi ssos nu sunt de origine indo-europeană.<br>
+          ● helladicul mijlociu –  1.850-1.600 î.Hr.. În spaţiul balcanic îşi fac apariţia populaţii indo-europene  (protogreci): ionieni şi eolieni (ahei), prin infiltrarea treptată a  triburilor şi a fragmentelor de trib. Relaţiile cu băştinaşii cunosc o  coexistenţă paşnică care alternează cu conflicte armate. Are loc extinderea  dominaţiei maritime cretane. Sunt construite palatele de la Cnossos, Phaistos,  Mallia. Este o perioadă de distrugeri şi ravagii realizată de valurile de  migratori care se stabilesc mai ales în Grecia continentală. Danaii, apoi aheii  (vorbitori de limba greacă) se stabilesc la Micene care se afirmă ca o cetate  puternică. <br>
+          ● helladicul târziu –  1.600-1.150 î.Hr. (miceniană). Pe continent apar numeroase palate care sunt  nişte fortăreţe monumentale în centrul cărora se situează megaronul (ziduri  ciclopice). Societatea miceniană este condusă de domni de origine nobilă  (aristoi) ce fac parte din casta războinică. Există dovezi de conflicte armate  între stăpânii micenieni (cantoanele ca sferă de influenţă), dar şi de  convieţuire paşnică sub comanda unui şef suprem (conducătorul Micenei de aur  din Argolida). Viaţa nobililor se împarte între război, vânătoare şi  festivităţi de Curte.</p><hr>
+
+<p style="text-indent: 16px;"><span class="aname">Epoca miceniană (1.580 – 1.150  î.Hr.) </span><br>
+<p style="text-indent: 16px;">Micene, un oraş antic pre-elen  situat pe un deal aflat în Argolida în Pelopones, dă numele său civilizaţiei  miceniene, care se dezvoltă de la 1650 î.Hr. în Grecia continentală.  Descoperirea acestei civilizaţii se datorează lui H. Schliemann, care în anul 1876  începe seria săpăturilor de la Micene.<br>
+<p style="text-indent: 16px;">Dovezile arheologice dezvăluie o  fortificare a Acropolei oraşului în jurul anului 1500 î.Hr. după cum reiese din  morminte descoperite.<br>
+<p style="text-indent: 16px;">În secolul al XV-lea î.Hr. Micene  îşi extinde puterea până în Asia Mică (Milet), Melos şi Creta executând dese  incursiuni de jaf. Tehnicile utilizate în fabricarea ceramicii şi construirea  cavourilor minoice cu boltă sunt adoptate pentru a servi cultului strămoşilor  celor din clasa nobilimii. Are loc distrugerea palatelor noi şi începe  colonizarea Cretei, Rodosului, Ciprului. <br>
+<p style="text-indent: 16px;">Spre jumătatea secolului XV î.Hr.  este adoptat sistemul de scriere şi apar primele tăbliţe în liniara B. Aceasta  permite scribilor care aveau rolul de a gestiona activităţile agricole şi  meşteşugăreşti, de a controla circulaţiei bunurilor (prin sistemul de sigilii) şi ţineau evidenţa lucrătorilor.<br>
+<p style="text-indent: 16px;">Circa 1350 î.Hr. - fortificaţiile  de pe dealul Acropole şi din apropiere au fost reconstruite spre a servi la  apărarea împotriva triburilor care pătrund dinspre Balcani. Zidurile ridicate  sunt numite ciclopice pentru că blocurile de piatră utilizate au fost atât de  mari încât, mai târziu, grecii s-au gândit că acestea sunt rezultatul muncii  mitologicilor ciclopi – uriaşii cu un singur ochi. În spatele zidurilor, din  care s-au pătrat încă părţi vizibile, au fost construite palate monumentale.<br>
+<p style="text-indent: 16px;">În jurul anului 1250 are loc un  nou val de imigrări (migraţiunile egeene) care vor duce la creşterea  Imperiului asirian mijlociu şi a oraşelor-stat feniciene. Acum are loc ultima  expediţie de jaf efectuată de aheii asupra cetăţii Troia care stârnea invidia  aheilor din cauza imenselor bogăţii acumulate în palatele regilor ei de-a  lungul unor secole de prosperitate şi pace. Expediţia a fost încununată cu  succes, oraşul fiind cucerit şi jefuit în mod metodic, apoi grecii s-au retras,  fiecare la el acasă, luând o pradă neînchipuit de bogată. <br>
+<p style="text-indent: 16px;">Civilizaţia miceniană cunoaşte o  decădere treptată, pentru ca la circa 1150 î.Hr. să aibă loc distrugerea  palatelor fortificate miceniene în perioada migraţiei doriană declanşată de  avansarea ilirilor către Marea Mediterană.<br>
+<p style="text-indent: 16px;">Izvoarele istorice ce ne permit o  reconstituire a societăţii miceniene şi viaţa acelor ahei sunt constituite, în  primul rând, din materialul oferit de tăbliţele cu scriere lineară B,  descoperite la Ventris. De asemenea, morminte circulare regale situate de multe  ori pe dealuri, numite tholoi, ce conţin un bogat inventar funerar, au relevat  formarea unei clase sociale războinice cu un statut special, în fruntea căreia  se afla un rege. <br>
+<p style="text-indent: 16px;">Societatea miceniană păstrează  cadrele societăţii trifuncţionale a indo-europenilor : două clase de  privilegiaţi, nobilii (aristoi) şi preoţii, care conduc şi exploatează clasa  producătoare – demos.<br>
+<p style="text-indent: 16px;">Regele, poartă denumirea de wanax  (şi nu de basileus, ca la Homer), este ajutat de un slujbaş de rang foarte  înalt, numit lawagetas, despre care epopeea nu face nici o menţiune. Unii  istorici îl interpretează ca fiind căpetenie a poporului, alţii ca însemnând  căpetenie a oştirii. Nu s-a căzut încă de acord dacă este vorba de un mare  dregător sau de un comandant suprem. Wanax şi lawagetas, care sunt' cele două  personaje de cea mai mare însemnătate din stat, sunt înzestrate cu mari  proprietăţi, sau temene. Sub ordinele acestora se află o puternică şi eficace  birocraţie formată dintr-o serie de înalţi dregători ale căror denumiri sunt  mult mai bine cunoscute decât funcţiile lor reale: telestai (deţinători de  terenuri date în arendă), hequetai, basileis, koretere. Suita regală, equeta,  este formată din aristocraţia militară, posibil constituită într-o nobilime  ereditară.<br>
+<p style="text-indent: 16px;">Demos-ul (poporul) este format  dintr-o populaţie diversificată de diviziunea muncii prestate. Sunt menţionate  în inscripţii unele profesii liberale (ca cele de medic sau de crainic),  precum şi de meseriaşi (brutar, fierar, dulgher, lucrător în construcţia de  nave, bijutier, olar, ţesător etc.). Specializarea merge uneori şi mai departe,  ca atunci când e vorba de făuritorii de arcuri, de cei ce potrivesc şi fierb  unguentele sau de slujitoarele din băi.  Toţi meseriaşii aceştia pot fi în serviciul regelui sau al lui lawagetas  sau pot lucra pe cont propriu, grupaţi uneori în bresle. ţăranii apar ceva mai  rar în arhivele palatului, dar totuşi sunt semnalate diverse categorii de mici  arendaşi. <br>
+<p style="text-indent: 16px;">Pe ultima treaptă a stării  sociale se situează sclavii, aflaţi în proprietatea regelui, marilor dregători,  ba chiar şi unor simpli particulari (este menţionat, de exemplu, sclavul unui  fierar). Sclavii care aparţin însă unui zeu, menţionaţi în tăbliţe, par mai  curând credincioşi consacraţi unei divinităţi, potrivit unui obicei oriental,  decât nişte adevăraţi sclavi. Multe sclave sunt captive luate ca pradă şi  originile lor (milesiană, cnidiană, lemniană) indică locul în care au fost  capturate. Remarcabila expansiune a regatelor aheene era secundată de un  excepţional dinamism în sectorul economic, în cel social şi în cel al vieţii  spirituale. Puterii civilizaţiei miceniene venea dintr-o economie înfloritoare,  ce acoperea nevoile locale în ceea ce priveşte alimentele şi obiectele de primă  necesitate, permiţând în acelaşi timp un comerţ avantajos cu ţinuturile cele  mai îndepărtate.<br>
+<p style="text-indent: 16px;">Agricultura se baza în primul  rând pe cereale şi pe plantaţiile de arbuşti, care se dezvoltă în mod continuu.  De asemenea, creşterea animalelor este o ocupaţie prosperă existând imense  cirezi de vite şi turme de oi. Poemele homerice abundă în invocaţii pastorale. Tăbliţele din Pylos, ca şi cele  din Cnosos, au permis o clarificare asupra regimului privind pământul: regele  şi lawagetas stăpânesc imense latifundii (temene). Ofiţerii sau funcţionarii  superiori primesc, în schimbul serviciilor aduse regelui sau a sarcinilor care  le revin, terenuri mai mici ca suprafaţă ( kitimena kotonat). Zeilor le erau  rezervate importante proprietăţi (etonia) ce par să fi dat uneori loc unor  adevărate contestaţii din partea poporului. Tot restul pământului aparţine  poporului (damos). Avem de-a face aici cu o amintire din vremea cuceririi,  amintire acum îndepărtată. <br>
+<p style="text-indent: 16px;">La sosirea în Grecia a primilor  greci aceştia şi-au însuşit toate terenurile cultivabile, care constituie  pământul comun (kekemena kotona) alungându-i pe vechii locuitori ai acestor  pământuri. Principiul egalitar al societăţilor indo-europene acorda fiecărui  cap de familie un lot de pământ, asupra căruia însă nu are drepturi depline<br>
+<p style="text-indent: 16px;">În tăbliţe sunt menţionate  terenuri luate din kekemena ketona şi acordate unor particulari, fie contra  plăţii unei arende (onata), fie chiar în mod gratuit (anona). Aceste anona sunt  acordate numai unor personaje de rang înalt ca răsplată pentru imensele  servicii aduse. Înstrăinările definitive constituie o gravă alterare a  posesiunii în comun asupra pământului; şi pregătesc, într-o slabă măsură,  bazele proprietăţii individuale, care nu se va extinde decât în mileniul  următor. <br>
+<p style="text-indent: 16px;">În societatea miceniană se  remarcă o diversitate de activităţi meşteşugăreşti manifestate în toate  industriile – textilă, ceramică, metalurgică, armurieră –, lucrarea metalelor  preţioase, a fildeşului, a coarnelor de animale etc. Ceramica furnizează mari  cantităţi de obiecte pentru export, producând nu numai piese utilitare, precum  căzi de baie, dar şi acele frumoase vase miceniene, găsite pe aproape întreg  ţărmul.<br>
+<p style="text-indent: 16px;">Numărul mare de obiecte miceniene  aduse la suprafaţă de săpăturile efectuate pe ţărmul Mediteranei dezvăluie  amploarea expansiunii comerciale care era, evident, susţinută de existenţa unei  flote puternice. Se cunosc foarte bine corăbiile miceniene, mulţumită  reprezentărilor figurate pe geme şi a câtorva modele reduse găsite în morminte  (dintre care unul la Micene). Tipul cel mai obişnuit e reprezentat de o corabie  cu vâsle (în general cu 5 perechi, dar unele vase mult mai mari numără 15  perechi de vâsle), dar care este prevăzută şi cu un catarg, putând îmbina  astfel puterea vântului cu efortul vâslaşilor. <br>
+<p style="text-indent: 16px;">Viaţa aheilor este marcată de o  mare religiozitate. Viitorul panteon grec se bazează pe zeităţile indo-europene  aduse de greci: Zeus, Hera, Poseidon, Artemis, Atena, Hermes, Ares şi Dionysos.</p>
+<hr>
+<p style="text-indent: 16px;"><span class="aname">Epoca geometrică (sec. IX – 750  î.Hr.)</span><br>
+<p style="text-indent: 16px;">În urma prăbuşirii civilizaţiei  miceniene (secolul al XII-lea î.Hr.) îşi face loc treptat, pe fondul  migraţiilor doriene, o nouă civilizaţie mai puţin evoluată, fără scriere şi  legături cu Orientul. Începe o perioadă obscură în timpul căreia (secolele XII-IX  î.Hr.) Grecia este trecută prin foc şi sabie de invadatorii dorieni. Este ceea  ce se numeşte perioada anilor întunecaţi (sau evul mediu elenic). <br>
+<p style="text-indent: 16px;">Cele mai multe încercări de  reconstruire a lumii greceşti din această perioadă se bazează în cea mai mare parte  pe opera lui Homer şi, în parte, pe cea a lui Hesiod. Cu toate acestea,  societatea descrisă în poeziile homerice este în toate probabilităţile o  fuziune a unor realităţi diferite, chiar dacă au aparţinut aceleiaşi perioade.  Cele două poeme ar trebui să se refere la evenimente din perioada civilizaţiei  miceniene, care este, înainte de sfârşitul secolului al XII-lea î.Hr.. Totuşi,  studierea aprofundată a acestora a dus la concluzii diferite emise de experţi  ai secolului al XX-lea. Poeziile înşişi, compuse între mijlocul sec. al  VIII-lea î.Hr. şi mijlocul sec. al VII-lea î.Hr., derivă din poezia  tradiţională orală. Ele nu trebuie să fie datate ca făcând parte din perioada  miceniană, astfel cum a fost formulată de arheologie şi constată de textele  liniare B, sau din perioada arhaică. Dimpotrivă, ele, probabil, se referă la  condiţiile predominante din timpul anilor întunecaţi. <br>
+<p style="text-indent: 16px;">Invazia dorienilor aduce este o  fază de regresiune faţă de perioada miceniană ce se resimte în viaţa economică  şi culturală a Greciei. Grecii de nord-vest se refugiază în Epir, Etolia şi  Acarnania. Dorienii pătrund până în Creta şi în sud-vestul Asiei Mici pe mare  şi în Pelopones pe uscat. Se constată o migrare către insulele ioniene. Attica,  Eubeea şi Cicladele rămân în mâinile ionienilor, neatinse de migraţiuni. Zonele  maritime părăsite de ahei sunt ocupate de fenicieni. Au scăpat de o distrugere  totală ţinuturile Beoţia şi Atica, precum şi Cetăţile Micene şi Tirint.<br>
+<p style="text-indent: 16px;">Atica cunoaşte un remarcabil  avânt, datorat afluxului de populaţii alungate din Pelopones. Pentru că nu  putea să hrănească un număr aşa mare de refugiaţi, Atena a trimis coloni spre  teritoriul numit mai târziu Ionia. <br>
+<p style="text-indent: 16px;">Reconstituirea migraţiilor  doriene se realizează prin identificarea celor mai importante grupe de limbi  (dialecte) ale triburilor greceşti: ionian, aheian (eolian) şi dorian.  Invadatorii sunt superiori pe plan militar datorită luptătorilor călare ce  luptă înarmaţi cu arme de fier împotriva localnicilor înarmaţi cu arme de  bronz.<br>
+<p style="text-indent: 16px;">Din secolul al IX-lea începe epoca  geometrică sau homerică. Termenul geometric provine de la ceramica originală  produsă acum şi care apare în exprimare ca o regresie faţă de cea miceniană.  Ceramica geometrică este produsul unei evoluţii lente începută în perioada  cretano-aheeană care a dezvoltat, printre altele, o reprezentare schematică a  figurii umane. Se creează un univers ornamental din elemente geometrice simple  (linii, meandre, semicercuri) pe amfore. <br>
+<p style="text-indent: 16px;">Grecia din această perioadă este  fărâmiţată în mici aşezări fortificate şi în sate dominată de o aristocraţie  războinică. Dacă în perioada anilor nu a existat o puternică segregare între  clasa aristocraţilor şi a demos-ului (regele nu este decât proprietarul cel mai  bogat şi cel care s-a dovedit cel mai viteaz în luptă), în schimb în epoca  geometrică îşi face simţită o delimitare clară a claselor sociale. <br>
+<p style="text-indent: 16px;">Homer descrie, în poeziile sale  despre eroi, o societate aristocratică într-o perspectivă favorabilă, în timp  ce Hesiod în lucrările sale oferă informaţii despre viaţa aspră a ţăranilor  (Munci şi zile) de la sfârşitul secolului al VIII-lea î.Hr. şi organizează  panteonul zeilor.<br>
+<p style="text-indent: 16px;">Treptat se impune o nouă ordine  politică favorizată de dezvoltarea oraşelor-stat (polis) mai ales în jurul  vechilor castele miceniene. În teritoriile proaspăt cucerite se renunţă la  vechea ordine militară (adunarea regelui şi a luptătorilor liberi) şi se  formează nouă clasă de proprietari de pământ (nobili – aristoi = cei mai  buni). Regalitatea se păstrează doar în Epir şi Macedonia, regiuni de graniţă  ale Greciei.<br>
+<p style="text-indent: 16px;">Importanţa clanurilor (gene) a  început să scadă. Apare proprietatea individuală, mai întâi asu­pra bunurilor  mobiliare şi asupra caselor, apoi asupra terenurilor mărginaşe (escatie la  Homer), puse în valoare de câţiva oameni energici. Spre sfârşitul epocii  geometrismului este instaurată o mare inegalitate în ceea ce priveşte  proprietăţile datorită atât forţei şi combativităţii conducătorilor clanurilor,  cât şi a unor iniţiative individuale şi ale unui nou raport între mecanismele  socio-economice. <br>
+<p style="text-indent: 16px;">Viaţa religioasă cunoaşte  schimbări semnificative faţă de perioada miceniană, deoarece dorienii au  consolidat importanţa zeilor faţă de zeiţe, iar afirmarea raţionalismului  încearcă să pună ordine într-un panteon confuz, nu numai prin reunirea laolaltă  a divinităţilor, dar şi prin reducerea numărului zeilor. Acum apar şi primele  temple cu o exprimare arhitecturală încă foarte rudimentară. În numeroase  aşezări sanctuarele nu posedă temple, astfel Artemis Ortia este venerată la  Sparta într-o incintă aflată sub cerul liber, în care nu se află decât un  altar.<br>
+<p style="text-indent: 16px;">În această perioadă este adoptate  de la fenicieni şi dezvoltate în continuare forme de scriere şi alfabetul.  Pentru prima dată sunetele erau total descompuse în consoane şi vocale  rezultând un alfabet de 24 de semne. Alfabetul se răspândeşte în întregul  spaţiu grecesc, pentru scriere fiind folosite materiale din piatră, lemn,  metal, piele, papirus şi tăbliţe de ceară. <br>
+<p style="text-indent: 16px;">Concentrarea proprietăţii  funciare în mâinile aristocraţiei şi creşterea populaţiei sărace care nu  dispune de veniturile necesare traiului duce la apariţia infanticidului sau la  anexarea unor teritorii vecine sau la colonizarea unor regiuni îndepărtate.  Începe colonizarea Italiei şi Siciliei care va duce la creşterea  schimburilor comerciale, coloniile exportă cereale şi importă produse de lux.  Intensificarea schimburilor, dezvoltarea unui comerţ cu adevărat elenic vor  avea drept urmare contacte de mai lungă durată cu Orientul, de unde o nouă  perioadă de avânt economic şi cultural ce-şi are începutul în jurul anilor 750. <br>
+<p style="text-indent: 16px;">La sfârşitul epocii geometrică au  apărut o artă şi o literatură care păstrase urme ale trecutului micenian.  Religia este constituită pe baze raţionale organizându-se panteonul zeităţilor  în care au fost introduse şi zeităţi orientale. </p>
+<hr>
+<p style="text-indent: 16px;"><span class="aname">Epoca arhaică (750 – 500 î.Hr.) </span><br>
+<p style="text-indent: 16px;">Această epocă vine după o  expansiune teritorială în urma căreia grecii au obţinut o prosperitate  materială şi culturală ce se apropie de cea din perioada miceniană.  Colonizarea, care continuă în această perioadă, a furnizat cetăţilor greceşti  produse alimentare necesare traiului, a permis dezvoltarea meşteşugurilor şi  expansiunea comerţului maritim. Noile colonii se bucurau de autonomie politică  şi aveau instituţii proprii, dar păstrau legătura cu cetatea-mamă (metropola)  prin practicarea aceluiaşi cult şi prin obiceiuri comune. Beneficiare de  materii prime şi de câmpii relativ întinse ce dădeau bogate recolte de cereale  noile colonii au cunoscut o rapidă dezvoltare care a permis crearea unei pături  bogate de negustori şi ţărani bogaţi care nu mai acceptau să fie dominaţi de o  oligarhie.<br>
+<p style="text-indent: 16px;">Tulburări interne şi crize  sociale, create pe fondul slăbirii autorităţii aristocratice, sunt legate de  evoluţia economică. Extinderea pieţelor în cursul secolelor VIII-VII î.Hr. duce  la perfecţionarea mijloacelor de schimb. Sunt folosite diferite etaloane de  valoare care vor culmina cu apariţia monedei sub forma unor rondele mici de  argint, bătute pe avers şi revers cu efigia unei familii mari care le garanta  integritatea (totuşi se continua şi cântărirea monedelor). Schimburile  comerciale au dus la crearea unei puternice clase legată de comerţ şi  activităţi industriale care vor cere, în timp, o mai bună reprezentare  politică. <br>
+<p style="text-indent: 16px;">Problemele sociale cele mai grave  sunt cele ale agricultorilor, clasa cea mai numeroasă, puternic concuraţi de  produsele venite dinspre Magna Grecia şi Pontul Euxin. ţăranii sunt aduşi în  situaţia de a se trezi înglodaţi în datorii, din ce în ce mai mari, de către  marii proprietari nobili. Mulţi dintre ei îşi pierd micile proprietăţi fiind  reduşi la starea de muncitori agricoli, iar uneori chiar pot fi vânduţi ca  sclavi sau alungaţi de pe pământurile lor pe care noul proprietar le lucrează  cu sclavi. În polisuri, de asemenea, folosirea sclavilor a avu drept consecinţă  agravarea situaţiei muncitorilor liberi, care vor îngroşa rândurile şomerilor. <br>
+<p style="text-indent: 16px;">Răspunsul aristocraţiei la  revendicările claselor sociale sărăcite, care cereau anularea datoriilor şi  împărţirea pământurilor, consta în represalii ce constau în execuţii sau  proscrieri. Această stare de lucruri influenţează negativ capacitatea de apărare  a polisurilor întrucât soldatul acelor vremuri (hoplitul) se echipa pe cont  propriu, iar armata îi cuprindea pe toţi cei care puteau să suporte  cheltuielile. <br>
+<p style="text-indent: 16px;">Din 650 în oraşele ioniene se  produce, pe acest fond, o îndepărtare a familiilor de sânge şi la impunerea  marilor familii de negustori. Demosul (poporul = cei care nu sunt nobili)  începe să-şi afirme tot mai mult voinţa şi cer o îmbunătăţire a organizării  polisului prin redactarea unor legi scrise. Pentru scrierea acestora vor apela  la arbitri respectaţi care vor redacta coduri de legi. Până în acel moment,  judecătorii, toţi nobili se raportau la darea sentinţelor la o tradiţie care  era favorabilă clasei lor. <br>
+<p style="text-indent: 16px;">Noile legislaţii, apărute mai  întâi în Magna Grecia (Zaleucos la Locri, Charondas la Catania), au limitat  competenţa judecătorilor genos-ului şi prin transferarea atribuţiile pentru  judecarea crimelor către polis au urmărit să pună capăt vendetelor. Reformele  realizate de legislatori reprezentau cel mai adesea un compromis între  preocupările conservatoare ale aristocraţilor şi revendicările poporului.<br>
+<p style="text-indent: 16px;">Reformele din cadrul justiţiei nu  au fost suficiente pentru instaurarea păcii în polisurile greceşti, abuzurile  celor bogaţi favorizând apariţia tiraniei. Tirania, o formă de conducere prin  care în fruntea cetăţii se află un şef investit cu puteri dictatoriale de către  demos, a fost forma sub care au trăit aproape toţi grecii de la mijlocul  secolului aş VII-lea până la mijlocul secolului al VI-lea. Tiranii, care de cel  mai mute ori sunt chiar aristocraţi, se folosesc de diferite metode de rămâne  la putere (eliminarea opozanţilor, ocuparea polisului, formarea unei gărzi  personale etc.) şi duc o politică care urmărea să îmbunătăţească viaţa  cetăţenilor. Tiraniile coincid cu perioadele de înflorire a civilizaţie  greceşti. <br>
+<p style="text-indent: 16px;">La Atena, reformele lui Solon  reprezintă primii paşi spre un regim democratic : noi legi ce apărau ţărănimea,  noi clase cenzitare, crearea tribunalului poporului (Heliaia). După Solon, se  instaurează tirania lui Pisistrate care se dedică amenajării şi înfrumuseţării  oraşului. <br>
+<p style="text-indent: 16px;">Tiraniile sunt înlocuite treptat  de aristocraţie. Atena urmează un alt drum, cel spre democraţie, sub conducerea  lui Clistene care asigură preeminenţa polisului asupra familiei, diminuând  puterea aristocraţiei<br>
+<p style="text-indent: 16px;">Sparta, după cucerirea Laconiei,  încearcă să-şi extindă dominaţia spre vest, în detrimentul argienilor, şi spre  nord, în detrimentul arcadienilor. În secolul al VII-lea î.Hr. trec muntele  Taiget şi cuceresc Messenia după lupte sângeroase. Aflaţi într-un mediu ostil  spartanii (sau lacedemonienii) se organizează într-un stat militarizat,  constituţia – atribuită legendarului Licurg – transformând statul spartan  într-o imensă cazarmă, condusă de o oligarhie de soldaţi-cetăţeni. <br>
+<p style="text-indent: 16px;">Exprimarea artistică cunoaşte noi  forme în toate domeniile : lirica ioniană, variată şi suplă, succede poeziei,  mai grave şi severe, a lui Homer şi Hesiod ; genurile dramatice încearcă să  prezinte o expunere raţională despre univers şi creează ştiinţa şi filosofia,  încă incomplet separate. <br>
+<p style="text-indent: 16px;">Prin legăturile economice avute  cu Orientul, grecii încep să ia cunoştinţă de o artă vie, bazată pe solide  tehnici seculare, şi permit pătrunderea elementelor naturaliste : fibule,  plante, animale. Sunt construite importante clădiri monumentale, dar apar şi  obiectele de artă de mici dimensiuni. Se conturează ordinele arhitecturale  greceşti care îşi trag formele din elemente însuşite din tradiţia miceniană şi  din cea orientală. <br>
+<p style="text-indent: 16px;">Ceramica, influenţată la început  de Orient, ce cunoaşte o prodigioasă dezvoltare se află în directă legătură cu  comerţul de lux (parfumuri, vinuri, untdelemn). Regiunile din Corint sunt  iniţiatoarele producţiei artistice, urmată, şi întrecută, de Atena unde se va  atinge momentul de perfecţiune şi desăvârşire al artei mature arhaice.<br>
+<p style="text-indent: 16px;">Perioada arhaică nu cunoaşte nici  un fel de schimbare radicală pe plan religios, dar renaşterea generală a  elenismului şi prosperitatea din ce în ce mai mare permit o dezvoltare  armonioasă a vieţii spirituale. Literatura, arta şi chiar filosofia din epoca arhaică  sunt strâns legate de religie, prin faptul, deosebit de evident, că explică  întreaga viaţă.</p>
+<hr>
+<p style="text-indent: 16px;"><span class="aname">Epoca clasică (500 – 336 î.Hr.)</span><br>
+<p style="text-indent: 16px;">Epoca clasică, perioada în care  civilizaţia greacă a atins cea mai mare dezvoltare, este situată cronologic  între războaiele dintre greci şi perşi (cunoscute şi sub numele de războaiele  medice) şi criza fără ieşire în urma războaielor fratricide, de care a profitat  Macedonia care şi-a instaurat hegemonia asupra lumii elenice.<br>
+<p style="text-indent: 16px;">După perioada arhaică Grecia,  care se vede ameninţată dinspre Orient de către perşi şi dinspre vest de  etrusci şi cartaginezi, găseşte în Atena un apărător. Războaiele dintre greci  şi perşi se încheie cu victoria grecilor ce au repurtat strălucitoare  victorii la Maraton (490 î.Hr.), Salamina (480 î.Hr.) şi Plateea (479 î.Hr.).  După victorie Atena va realiza o confederaţie (Liga de la Delos) în scopul de a  proteja teritoriul grecesc. <br>
+<p style="text-indent: 16px;">Dacă la început hotărârile se lua  în comun cu aliaţii săi, treptat, Atena îşi impune hegemonia care va duce la  ascuţirea antagonismului dintre ea şi Sparta. Atena îi obligă pe aliaţi săi  care nu puteau furniza corăbii, necesare apărării cetăţilor greceşti, să  plătească un tribut care era depus, la început, în tezaurul de la Delos. După o  perioadă acest tezaur este mutat la Atena, pe Acropole. De asemenea, aliaţii  sunt puşi să folosească măsurile şi greutăţile Atenei, să venereze zeităţile  atenienilor, să participe la sărbătorile ateniene. <br>
+<p style="text-indent: 16px;">Bogăţiile aduse de imperiul  maritim grecesc sunt folosite de Atena, sub conducerea strategului Pericle,  pentru perfecţionarea instituţiilor democratice bazate pe Adunare poporului  (Ecclesia) şi pe un Consiliu legislativ (Bule). În timpul lui Pericle, Atena  cunoaşte apogeul în toate domeniile – politice, economice, culturale, artistice  etc. Literatura, filosofia, artele plastice şi arhitectura au fost ilustrate de  personalităţi de geniu, care au făcut ca această perioadă să fie cunoscută ca  Epoca de aur a civilizaţiei greceşti, una dintre cele mai strălucite din  întreaga istorie a omenirii.<br>
+<p style="text-indent: 16px;">Sparta, condusă de un regim  oligarhic, este nemulţumită de hegemonia atenienilor ce-i pune în umbră puterea  continentală. Ea creează Liga din Pelopones care i se va opune, într-un război  ce va dura 30 de ani, Atenei şi aliaţilor săi. Războiul peloponesiac, ce se  încheie cu victoria Spartei (404 î.Hr.), a epuizat Grecia care intră într-o  perioadă de conflicte nesfârşite între marile cetăţi. Sparta îşi impune  hegemonia sa în locul celei ateniene (între 401 – 383 î.Hr.), după care urmează  hegemonia Tebei (379 – 362 î.Hr.). De luptele dintre greci profită regele  persan care se implică provocând o creştere a crizei demografice, economice şi  financiare în care se aflau aceştia.<br>
+<p style="text-indent: 16px;">Regatul Macedoniei, condus de  Filip al II-lea, începe să joace un rol important în zonă şi reuşeşte în urma  anarhiei ce a cuprins Grecia să-şi impună hegemonia. Victoria de la Cheroneea  (338 î.Hr.) repurtată împotriva atenienilor şi tebanilor înseamnă dispariţia  democraţiei. Fiul său, Alexandru, după distrugerea Imperiului persan, deschide  epoca civilizaţiei elenistice realizată din contopirea civilizaţiei greceşti cu  cea a Orientului.</p>
+    </div>
+    </div>
+</div>
+
+</div>
+</div>
+
+
+</article></div>
+                    </div>
+                </div>
+      </div><footer class="brv-footer">
+<div class="brv-content-layout layout-item-0">
+<div class=brv-content-layout-row>
+<div class=brv-layout-cell style=width:100%>
+<div style=color:#ff0;font-size:11px;font-family:Arial,Helvetica,sans-serif;font-weight:normal;font-style:normal;text-decoration:none id=copyrightnotice></div>
+</div>
+</div>
+</div>
+</footer>  <div class="bottom-menu"><span class="bottom-menu"><a href="termeni-de-utilizare.html">Termeni de utilizare </a></span>|<a href="confidentialitate.html"> Politica de confidențialitate</a>   | <a href="despre-noi.html">Despre</a></div>
+</div>
+</div>
+<div id=floater>
+<div class="region region-floater"><div class="region-inner clearfix">
+<section id=block-social-media-links-social-media-links class="block block-social-media-links even last block-count-9 block-region-floater block-social-media-links"><div class="block-inner clearfix">
+<h2 class=block-title>Follow Us</h2>
+<div class="block-content content"><ul class="social-media-links platforms vertical">
+<li class="contact last"><img src=../../social-media/email.png alt="Contact icon"></li>
+<li class="facebook first"><a href=https://www.facebook.com/istorie.edu.ro/ target=_blank title="Urmărește-ne pe Facebook"><img src=../../social-media/facebook.png alt="Facebook icon"></a></li>
+<li class=twitter><a href=http://twitter.com/istorieedu target=_blank title="Urmărește-ne pe Twitter"><img src=../../social-media/twitter.png alt="Twitter icon"></a></li>
+<li class="contact last"><img src=../../social-media/email2.png alt="Contact icon"></li></ul>
+</div>
+</div></section></div></div></div>
+<script type=text/javascript>var now=new Date();var startYear="2009";var text="Copyright &copy; ";if(startYear!=""){text=text+startYear+"-"}text=text+now.getFullYear()+" - istorie-edu.ro";var copyrightnotice=document.getElementById("copyrightnotice");copyrightnotice.innerHTML=text;</script>
+<script type=text/javascript>disableSelection(document.body);</script><script id="wpcp_disable_Right_Click" type="text/javascript">//
+	document.ondragstart = function() { return false;}
+	    function nocontext(e) { return false;} document.oncontextmenu = nocontext;	//</script>
+<script>window.onscroll=function(){scrollFunction()};function scrollFunction(){if(document.body.scrollTop>20||document.documentElement.scrollTop>20){document.getElementById("myBtn").style.display="block"}else{document.getElementById("myBtn").style.display="none"}}function topFunction(){document.body.scrollTop=0;document.documentElement.scrollTop=0};</script>
+</body></html>

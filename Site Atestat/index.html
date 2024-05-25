@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <title>Acasă</title>
+  </head>
+  <body>
+    <header>
+      <a href="index.html"><h1>Grecia Antică</h1></a>
+      <ul>
+        <a href="index.html"><li>Acasă</li></a>
+        <a href="istoria.html"><li>Istoria Greciei</li></a>
+        <a href="asis.html"><li>Atena și Sparta</li></a>
+        <a href="zei.html"><li>Zeități</li></a>
+        <a href="person.html"><li>Personalități</li></a>
+        <a href="despre.html" class="linkdreapta"><li>Despre</li></a>
+      </ul>
+    </header>
+    <div class="content">
+      <div class="mainvideo">
+        <video width="800" height="450" autoplay muted loop>
+          <source
+            src="Ancient Greece 101 National Geographic.mp4"
+            type="video/mp4"
+          />
+        </video>
+      </div>
+
+      <h2>Bine ai venit în fascinantul univers al Greciei antice! 🏛️</h2>
+      <p>
+        Imaginează-te că pășești pe străzile înguste ale Atenei, înconjurate de
+        mărețe temple și clădiri impunătoare. Aici, filosofii discutau pasionat
+        despre natura universului, iar artiștii dădeau viață miturilor și
+        legendelor prin sculpturi și picturi. <br />
+        Într-o lume în care zeii și eroii se împleteau cu viața cotidiană,
+        orașele-state grecești prosperau. Sparta, cu legendarul său sistem
+        militar, și Atena, cu democrația sa unică, rivalizau pentru supremație.
+        Oamenii se adunau în amfiteatrele uriașe pentru a asista la piese de
+        teatru și competiții sportive, iar Jocurile Olimpice erau un eveniment
+        de neratat. <br />
+        Dar Grecia antică nu era doar despre politica și filosofie. Era și
+        despre artă, arhitectură și aventuri epice. De la Odiseea lui Ulise la
+        miturile despre Hercule și Afrodita, fiecare colț al Greciei ascundea o
+        poveste fascinantă.<br />
+        Așadar, pregătește-te să explorezi trecutul glorios al Greciei antice și
+        să descoperi misterele și splendoarea acestei civilizații remarcabile!
+        🌟
+      </p>
+      <!-- Slideshow container -->
+      <div class="slideshow-container">
+        <!-- Full-width images with number and caption text -->
+        <div class="mySlides fade">
+          <a href="istoria.html">
+            <div class="numbertext">1 / 4</div>
+            <img src="mccabe.jpg" style="width: 100%" />
+            <div class="text">Epocile istorice ale Greciei antice</div>
+          </a>
+        </div>
+
+        <div class="mySlides fade">
+          <a href="asis.html">
+            <div class="numbertext">2 / 4</div>
+            <img src="v8eugka.png" style="width: 100%" />
+            <div class="text">Rivalitatea dintre Atena si Sparta</div>
+          </a>
+        </div>
+
+        <div class="mySlides fade">
+          <a href="zei.html">
+            <div class="numbertext">3 / 4</div>
+            <img src="R.jpg" style="width: 100%" />
+            <div class="text">Panteonul grecesc</div>
+          </a>
+        </div>
+        <div class="mySlides fade">
+          <a href="person.html">
+            <div class="numbertext">4 / 4</div>
+            <img src="Socrates.jpg" style="width: 100%" />
+            <div class="text">Filozofi faimosi</div>
+          </a>
+        </div>
+
+        <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+      </div>
+      <br />
+
+      <!-- The dots/circles -->
+      <div style="text-align: center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+      </div>
+      <h3 class="subtitlu">Istoria Greciei</h3>
+      <p>
+        Această secțiune oferă o privire de ansamblu asupra evoluției Greciei
+        Antice, de la civilizațiile egeene până la perioada elenistică. Se
+        explorează momente cheie precum Epoca Clasică, războaiele cu perșii și
+        expansiunea imperiului lui Alexandru cel Mare.
+      </p>
+      <h3 class="subtitlu">Atena și Sparta</h3>
+      <p>
+        Aici se compară cele două orașe-state rivale, evidențiind diferențele
+        dintre sistemul democratic atenian și cel militarist spartan. Se discută
+        despre viața socială, politică și militară în cele două polisuri.
+      </p>
+      <h3 class="subtitlu">Zeitați</h3>
+      <p>
+        Categoria dedicată religiei politeiste prezintă principalele divinități
+        ale panteonului grec, miturile asociate acestora și influența lor asupra
+        culturii și vieții cotidiene.
+      </p>
+      <h3 class="subtitlu">Personalități</h3>
+      <p>
+        Această parte pune accent pe figuri marcante ale Greciei Antice, cum ar
+        fi filosofi, lideri politici, eroi și personalități culturale care au
+        modelat istoria și cultura elenă.
+      </p>
+      <hr />
+      <p>
+        Fiecare categorie este însoțită de texte informative, imagini relevante
+        și referințe către surse pentru aprofundarea cunoștințelor.
+      </p>
+    </div>
+    <footer>
+      <p>Made by Eric Caldararu 2024©</p>
+    </footer>
+    <script>
+      window.onscroll = function () {
+        StickyNav();
+      };
+      var navbar = document.querySelector("header ul");
+      var sticky = navbar.offsetTop;
+      function StickyNav() {
+        if (window.pageYOffset >= sticky) {
+          navbar.classList.add("sticky");
+        } else {
+          navbar.classList.remove("sticky");
+        }
+      }
+
+      let slideIndex = 1;
+      showSlides(slideIndex);
+
+      // Next/previous controls
+      function plusSlides(n) {
+        showSlides((slideIndex += n));
+      }
+
+      // Thumbnail image controls
+      function currentSlide(n) {
+        showSlides((slideIndex = n));
+      }
+
+      function showSlides(n) {
+        let i;
+        let slides = document.getElementsByClassName("mySlides");
+        let dots = document.getElementsByClassName("dot");
+        if (n > slides.length) {
+          slideIndex = 1;
+        }
+        if (n < 1) {
+          slideIndex = slides.length;
+        }
+        for (i = 0; i < slides.length; i++) {
+          slides[i].style.display = "none";
+        }
+        for (i = 0; i < dots.length; i++) {
+          dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex - 1].style.display = "block";
+        dots[slideIndex - 1].className += " active";
+      }
+    </script>
+  </body>
+</html>
